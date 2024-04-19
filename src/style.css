@@ -1,0 +1,14 @@
+/* The whole website page */
+body{
+    background-color: #2c2c2c;
+    color: #cbcbcb;
+}
+
+
+.favoriteFalse {
+    background-color: rgb(30, 97, 130);
+}
+
+.favoriteTrue {
+    background-color: rgb(226, 57, 57);
+}
